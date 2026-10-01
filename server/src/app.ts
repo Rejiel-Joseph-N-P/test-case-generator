@@ -7,6 +7,7 @@ import { errorHandler } from "./middleware/errorHandler";
 import { HttpError } from "./lib/httpError";
 
 export const app = express();
+app.set("trust proxy", 1);
 
 app.use(helmet());
 app.use(cors({ origin: env.CLIENT_ORIGIN }));
