@@ -2,8 +2,8 @@
 
 A full-stack app that turns software requirements or user stories into structured test cases using AI. Users can review, edit, regenerate, save and export the results.
 
-**Live app:** YOUR-VERCEL-URL
-**API health check:** YOUR-RENDER-URL/api/health
+**Live app:** https://test-case-generator-amber.vercel.app/
+**API health check:** https://test-case-generator-wgir.onrender.com/api/health
 
 > The backend runs on Render's free tier and sleeps after inactivity, so the first request can take up to a minute.
 
