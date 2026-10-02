@@ -1,3 +1,6 @@
+<img width="1920" height="1032" alt="Screenshot 2026-10-02 123405" src="https://github.com/user-attachments/assets/395ed248-3b08-43fa-9fb2-097fe665c7dc" />
+
+
 # Test Case Generator
 
 A full-stack app that turns software requirements or user stories into structured test cases using AI. Users can review, edit, regenerate, save and export the results.
